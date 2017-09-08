@@ -1,4 +1,4 @@
-# Southeast PHP Conference Code of Conduct
+# Code of Conduct
 
 ## 1. Purpose
 
